@@ -10,9 +10,9 @@ This is a documentation repository containing guides and best practices for usin
 
 The repository contains three main documentation files:
 
-- **gemini_claude_macos_terminal_guide.md**: Comprehensive guide covering setup, context files, multi-tool workflows, autonomous agents, Git integration, and context syncing for AI assistants in terminal environments
-- **session_workflows.md**: Describes session start and end workflows, including how AI agents gather context at session start and how to wrap up sessions with Git commits
-- **brainstorming.md**: Workflow guidance for using AI as a thinking partner - starting conversations freely, refining through dialogue, saving plans, and implementing incrementally
+- **guide.md**: Comprehensive guide covering setup, context files, multi-tool workflows, autonomous agents, Git integration, and context syncing for AI assistants in terminal environments
+- **use_cases/session_workflows.md**: Describes session start and end workflows, including how AI agents gather context at session start and how to wrap up sessions with Git commits
+- **use_cases/brainstorming.md**: Workflow guidance for using AI as a thinking partner - starting conversations freely, refining through dialogue, saving plans, and implementing incrementally
 
 ## Key Concepts
 
